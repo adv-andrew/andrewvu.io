@@ -16,7 +16,7 @@ Hugo is a fast and modern static site generator written in Go. It's perfect for 
 
 ## Features of PaperMod Theme
 
-test
+GitHub Pages deployment test
 
 - Clean and minimalist design
 - Fast loading times
