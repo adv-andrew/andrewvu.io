@@ -1,4 +1,4 @@
-baseURL: "https://example.org/"
+baseURL: "https://your-domain.com/"
 languageCode: "en-us"
 title: "My Hugo Blog"
 theme: "PaperMod"
