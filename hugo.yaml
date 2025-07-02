@@ -1,6 +1,6 @@
 baseURL: "https://adv-andrew.github.io/andrewvu.io/"
 languageCode: "en-us"
-title: "My Hugo Blog"
+title: "Andrew Vu"
 theme: "PaperMod"
 
 # Add JSON output for search functionality
