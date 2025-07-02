@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Andrew Vu</title>
-    <link>http://localhost:62850/andrewvu.io/posts/</link>
+    <link>http://localhost:1313/andrewvu.io/posts/</link>
     <description>Recent content in Posts on Andrew Vu</description>
     <image>
       <title>Andrew Vu</title>
-      <url>http://localhost:62850/andrewvu.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:62850/andrewvu.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/andrewvu.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/andrewvu.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Jun 2025 22:57:14 -0400</lastBuildDate>
-    <atom:link href="http://localhost:62850/andrewvu.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/andrewvu.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Testing Computer Using Agents: My Weekend Deep Dive into Microsoft UFO2 (and Why I’m Excited About This Tech)</title>
-      <link>http://localhost:62850/andrewvu.io/posts/my-first-post/</link>
+      <link>http://localhost:1313/andrewvu.io/posts/my-first-post/</link>
       <pubDate>Sun, 29 Jun 2025 22:57:14 -0400</pubDate>
-      <guid>http://localhost:62850/andrewvu.io/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/andrewvu.io/posts/my-first-post/</guid>
       <description>Exploring the cutting-edge world of Computer Using Agents (CUA) - from testing Microsoft UFO2 to envisioning the future of OS-level AI automation. A technical analysis of current limitations and potential breakthroughs.</description>
     </item>
   </channel>

@@ -2,78 +2,78 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Andrew Vu</title>
-    <link>http://localhost:62850/andrewvu.io/tags/</link>
+    <link>http://localhost:1313/andrewvu.io/tags/</link>
     <description>Recent content in Tags on Andrew Vu</description>
     <image>
       <title>Andrew Vu</title>
-      <url>http://localhost:62850/andrewvu.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:62850/andrewvu.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/andrewvu.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/andrewvu.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Jun 2025 22:57:14 -0400</lastBuildDate>
-    <atom:link href="http://localhost:62850/andrewvu.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/andrewvu.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
-      <link>http://localhost:62850/andrewvu.io/tags/ai/</link>
+      <link>http://localhost:1313/andrewvu.io/tags/ai/</link>
       <pubDate>Sun, 29 Jun 2025 22:57:14 -0400</pubDate>
-      <guid>http://localhost:62850/andrewvu.io/tags/ai/</guid>
+      <guid>http://localhost:1313/andrewvu.io/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>AI-Research</title>
-      <link>http://localhost:62850/andrewvu.io/tags/ai-research/</link>
+      <link>http://localhost:1313/andrewvu.io/tags/ai-research/</link>
       <pubDate>Sun, 29 Jun 2025 22:57:14 -0400</pubDate>
-      <guid>http://localhost:62850/andrewvu.io/tags/ai-research/</guid>
+      <guid>http://localhost:1313/andrewvu.io/tags/ai-research/</guid>
       <description></description>
     </item>
     <item>
       <title>Automation</title>
-      <link>http://localhost:62850/andrewvu.io/tags/automation/</link>
+      <link>http://localhost:1313/andrewvu.io/tags/automation/</link>
       <pubDate>Sun, 29 Jun 2025 22:57:14 -0400</pubDate>
-      <guid>http://localhost:62850/andrewvu.io/tags/automation/</guid>
+      <guid>http://localhost:1313/andrewvu.io/tags/automation/</guid>
       <description></description>
     </item>
     <item>
       <title>Computer-Using-Agents</title>
-      <link>http://localhost:62850/andrewvu.io/tags/computer-using-agents/</link>
+      <link>http://localhost:1313/andrewvu.io/tags/computer-using-agents/</link>
       <pubDate>Sun, 29 Jun 2025 22:57:14 -0400</pubDate>
-      <guid>http://localhost:62850/andrewvu.io/tags/computer-using-agents/</guid>
+      <guid>http://localhost:1313/andrewvu.io/tags/computer-using-agents/</guid>
       <description></description>
     </item>
     <item>
       <title>Machine-Learning</title>
-      <link>http://localhost:62850/andrewvu.io/tags/machine-learning/</link>
+      <link>http://localhost:1313/andrewvu.io/tags/machine-learning/</link>
       <pubDate>Sun, 29 Jun 2025 22:57:14 -0400</pubDate>
-      <guid>http://localhost:62850/andrewvu.io/tags/machine-learning/</guid>
+      <guid>http://localhost:1313/andrewvu.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Microsoft-Ufo</title>
-      <link>http://localhost:62850/andrewvu.io/tags/microsoft-ufo/</link>
+      <link>http://localhost:1313/andrewvu.io/tags/microsoft-ufo/</link>
       <pubDate>Sun, 29 Jun 2025 22:57:14 -0400</pubDate>
-      <guid>http://localhost:62850/andrewvu.io/tags/microsoft-ufo/</guid>
+      <guid>http://localhost:1313/andrewvu.io/tags/microsoft-ufo/</guid>
       <description></description>
     </item>
     <item>
       <title>OpenAI</title>
-      <link>http://localhost:62850/andrewvu.io/tags/openai/</link>
+      <link>http://localhost:1313/andrewvu.io/tags/openai/</link>
       <pubDate>Sun, 29 Jun 2025 22:57:14 -0400</pubDate>
-      <guid>http://localhost:62850/andrewvu.io/tags/openai/</guid>
+      <guid>http://localhost:1313/andrewvu.io/tags/openai/</guid>
       <description></description>
     </item>
     <item>
       <title>Software-Development</title>
-      <link>http://localhost:62850/andrewvu.io/tags/software-development/</link>
+      <link>http://localhost:1313/andrewvu.io/tags/software-development/</link>
       <pubDate>Sun, 29 Jun 2025 22:57:14 -0400</pubDate>
-      <guid>http://localhost:62850/andrewvu.io/tags/software-development/</guid>
+      <guid>http://localhost:1313/andrewvu.io/tags/software-development/</guid>
       <description></description>
     </item>
     <item>
       <title>Technical-Innovation</title>
-      <link>http://localhost:62850/andrewvu.io/tags/technical-innovation/</link>
+      <link>http://localhost:1313/andrewvu.io/tags/technical-innovation/</link>
       <pubDate>Sun, 29 Jun 2025 22:57:14 -0400</pubDate>
-      <guid>http://localhost:62850/andrewvu.io/tags/technical-innovation/</guid>
+      <guid>http://localhost:1313/andrewvu.io/tags/technical-innovation/</guid>
       <description></description>
     </item>
   </channel>
