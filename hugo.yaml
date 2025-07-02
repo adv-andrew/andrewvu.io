@@ -1,6 +1,6 @@
 baseURL: "https://adv-andrew.github.io/andrewvu.io/"
 languageCode: "en-us"
-title: "Andrew Vu"
+title: "My Hugo Blog"
 theme: "PaperMod"
 
 # Add JSON output for search functionality
@@ -12,9 +12,10 @@ outputs:
 
 params:
   env: production
+  title: "My Hugo Blog"
   description: "A beautiful blog built with Hugo and PaperMod theme"
   keywords: [Blog, Portfolio, PaperMod]
-  author: "Andrew Vu"
+  author: "Your Name"
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto
@@ -46,7 +47,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Andrew Vu"
+    text: "My Hugo Blog"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
