@@ -1,20 +1,18 @@
 ---
-date: '2025-01-24T22:57:14-04:00'
+date: '2025-06-29T22:57:14-04:00'
 draft: false
-title: 'Testing Computer Using Agents: My Weekend Deep Dive into Microsoft UFO2 (and Why I'm Excited About This Tech)'
-description: 'A college student explores Computer Using Agents after seeing a friend's hackathon demo. Testing Microsoft UFO2, analyzing costs, and imagining the future of AI automation.'
-tags: ["AI", "automation", "computer-using-agents", "microsoft-ufo", "machine-learning", "software-development", "college-tech", "hackathon-projects", "ai-research"]
-categories: ["AI & Machine Learning", "Student Projects", "Technology Exploration"]
-keywords: ["Computer Using Agents", "CUA", "Microsoft UFO2", "college student tech", "AI automation", "hackathon projects", "software development", "machine learning"]
+title: 'Testing Computer Using Agents: My Weekend Deep Dive into Microsoft UFO2 (and Why I’m Excited About This Tech)'
+description: 'Exploring the cutting-edge world of Computer Using Agents (CUA) - from testing Microsoft UFO2 to envisioning the future of OS-level AI automation. A technical analysis of current limitations and potential breakthroughs.'
+tags: ["AI", "automation", "computer-using-agents", "microsoft-ufo", "machine-learning", "software-development", "AI-research", "OpenAI", "technical-innovation"]
+categories: ["AI & Machine Learning", "Software Development", "Technology Research"]
+keywords: ["Computer Using Agents", "CUA", "Microsoft UFO2", "AI automation", "machine learning engineer", "software developer", "AI research", "automation engineering", "OpenAI operator"]
 ---
-
-# Testing Computer Using Agents: My Weekend Deep Dive into Microsoft UFO2 (and Why I'm Excited About This Tech)
 
 So this weekend I went down a pretty wild rabbit hole. It all started when my friend **Jeffrey Zang** showed me this insane hackathon project he built at Waterloo called **"Opus"** ([check it out here](https://github.com/jeffrey-zang/opus)). 
 
 Watching his demo was honestly mind-blowing - like, an AI that can actually *use* your computer the way you would? That got me way too curious for my own good.
 
-*[Image placeholder: Screenshot or video of Jeffrey's Opus demo in action]*
+![Jeffrey's Opus demo in action](https://media.discordapp.net/attachments/1265179839040847884/1389829516192383066/image.png?ex=68660b1a&is=6864b99a&hm=11bff423ead69fd49dc4c16374bad59aceb55648cf6eff716db2143028fdc4bc&=&format=webp&quality=lossless&width=1450&height=873)
 
 ## What Even Are Computer Using Agents?
 
@@ -33,11 +31,11 @@ Jeffrey's project uses Microsoft's Opus architecture, which is pretty clever:
 | **Execution Engine** | Actually performs the clicks/typing | The hands that do the work |
 | **Feedback Loops** | Learns from mistakes | "Oops, wrong button, let me try again" |
 
-*[Image placeholder: Architecture diagram of Microsoft's Opus system showing the flow between components]*
-
 ## Down the Rabbit Hole: Microsoft UFO2
 
 After seeing Jeffrey's demo, I had to try this myself. That's when I found Microsoft's latest research project: **UFO2** ([GitHub link](https://github.com/microsoft/UFO)). 
+
+![Architecture diagram of Microsoft's Opus system](https://github.com/microsoft/UFO/blob/main/assets/comparison.png?raw=true)
 
 This thing just came out in April 2025 and it's supposed to be state-of-the-art for Computer Using Agents.
 
@@ -60,7 +58,15 @@ export OPENAI_API_KEY="your-api-key-here"
 python main.py
 ```
 
-*[Image placeholder: Screenshot of UFO2 installation process and terminal output]*
+```bash
+Welcome to use UFO🛸, A UI-focused Agent for Windows OS Interaction. 
+ _   _  _____   ___
+| | | ||  ___| / _ \
+| | | || |_   | | | |
+| |_| ||  _|  | |_| |
+ \___/ |_|     \___/
+Please enter your request to be completed🛸:
+```
 
 ## The Reality Check: Testing UFO2
 
@@ -76,8 +82,6 @@ I decided to test it with what seemed like a super simple task:
 | **Time** | 8 minutes | "I could do this in 10 seconds..." |
 | **Success Rate** | Failed multiple times | "This is harder than it looks" |
 | **Attempts** | ~6-7 tries | "At least it's persistent?" |
-
-*[Image placeholder: Screenshot of UFO2 interface showing the task execution and costs]*
 
 ### What Went Wrong (And Why)
 
@@ -102,9 +106,9 @@ while task_not_complete:
 - Kept trying the same failed action multiple times
 - Used TONS of tokens for each screenshot analysis
 
-*[Image placeholder: Screenshots showing UFO2 making navigation errors or getting stuck]*
-
 ## Breaking Down Why UFO2 Is So Expensive
+
+![Architecture diagram of Microsoft's UFO system](https://github.com/adv-andrew/UFO/raw/main/assets/framework2.png)
 
 The architecture is honestly pretty brilliant, but it's also super **token-heavy**:
 
@@ -121,8 +125,6 @@ graph TD
     B --> F[Token Cost: ~500-1000]
     C --> G[Token Cost: ~300-500]
 ```
-
-*[Image placeholder: Flowchart or diagram showing UFO2's processing pipeline with token costs]*
 
 | Step | Token Usage | Why It's Expensive |
 |------|-------------|-------------------|
@@ -152,8 +154,6 @@ graph TD
 | **Unreliable** | Fails frequently | Spent more time fixing than working |
 | **Token Heavy** | Costs scale quickly | 5 tasks = lunch money |
 
-*[Image placeholder: Comparison chart showing human vs CUA performance for simple tasks]*
-
 ## What I Haven't Tried Yet: OpenAI's Operator
 
 I keep hearing about **OpenAI's Operator** system, which supposedly is way more optimized than UFO2. From what I've read, it might be better because:
@@ -172,8 +172,7 @@ agent = Operator()
 result = agent.execute_task("Create a new text file called todo.txt")
 print(f"Task completed in {result.time_taken} seconds for ${result.cost}")
 ```
-
-*[Image placeholder: Mockup or screenshot of OpenAI's Operator interface (when available)]*
+![Screenshot of OpenAI's Operator interface](https://media.discordapp.net/attachments/545057815488757781/1389831844396007484/image.png?ex=68660d45&is=6864bbc5&hm=c44578754fa61dc6d418458d4eabc39bb02f5a4fe3fcc3bfc91545a7cf21c485&=&format=webp&quality=lossless&width=565&height=374)
 
 ## My Vision: The Ultimate Computer Assistant
 
@@ -210,8 +209,6 @@ Imagine having a chat interface that's always available on your computer, where 
 | **Reliability** | ~60% success rate | > 95% success rate |
 | **Context** | Forgets easily | Remembers your preferences |
 
-*[Image placeholder: Mockup of what an OS-level AI overlay interface might look like]*
-
 ## What Needs to Happen for CUAs to Be Actually Useful
 
 ### 1. Efficiency Improvements
@@ -241,8 +238,6 @@ Instead of using general-purpose vision models, we probably need:
 - **Local processing** for privacy and speed
 - **Caching systems** to avoid re-analyzing similar screens
 
-*[Image placeholder: Comparison between current general models vs. proposed specialized models]*
-
 ## Why This Matters (Beyond Just Being Cool)
 
 As a college student thinking about career stuff, this space seems huge:
@@ -265,8 +260,6 @@ The company that figures out fast, cheap, reliable CUAs is going to be massive.
 - **Data Entry**: Eliminating repetitive tasks
 - **Accessibility**: Helping people with disabilities use computers
 - **Personal Productivity**: Everyone having an AI assistant
-
-*[Image placeholder: Infographic showing different CUA applications across industries]*
 
 ## My Takeaways After This Weekend
 
@@ -296,8 +289,6 @@ Computer Using Agents are going to change how we interact with technology. Yeah,
 For anyone reading this (especially recruiters 👀), this is a space worth paying attention to. The intersection of **computer vision**, **AI reasoning**, and **system automation** is going to create entirely new categories of software.
 
 Plus, it's just really fun to watch an AI try to use Windows and get confused by the same UI quirks that annoy all of us.
-
-*[Image placeholder: Fun screenshot of UFO2 getting confused by a Windows dialog box]*
 
 ---
 

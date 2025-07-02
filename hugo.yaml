@@ -1,6 +1,6 @@
 baseURL: "https://adv-andrew.github.io/andrewvu.io/"
 languageCode: "en-us"
-title: "My Hugo Blog"
+title: "Andrew Vu"
 theme: "PaperMod"
 
 # Add JSON output for search functionality
@@ -12,10 +12,10 @@ outputs:
 
 params:
   env: production
-  title: "My Hugo Blog"
+  title: "Andrew Vu"
   description: "A beautiful blog built with Hugo and PaperMod theme"
   keywords: [Blog, Portfolio, PaperMod]
-  author: "Your Name"
+  author: "Andrew Vu"
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto
@@ -47,7 +47,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "My Hugo Blog"
+    text: "Andrew Vu"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -68,16 +68,15 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there! 👋"
-    Content: Welcome to my blog
+    Title: "Hello."
+    Content: |
+      Welcome to my site! My name is Andrew Vu, I work as a Software Engineering Intern at Adtran and I am a current Computer Science & Economics student at the University of Florida. My topics of interest include AI engineering, backend systems, high performance computing, and building tools that actually ship. I primarily work in Python and C++, and I'm deepening my knowledge in AI, distributed systems, and trading models. My hobbies include rock climbing, swimming, and game development. This site acts as a hub for my online presence and doubles as a blog where I share my learning journey, and document projects I'm working on. All opinions expressed are my own and do not represent the viewpoint of any organization I am affiliated with. Feel free to reach out!
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/adv-andrew-d-vu/"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/adv-andrew/"
 
   analytics:
     google:
@@ -122,10 +121,6 @@ menu:
       name: search
       url: /search/
       weight: 30
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 40
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
