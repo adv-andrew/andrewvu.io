@@ -11,14 +11,21 @@
     </image>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Jun 2025 22:57:14 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 23:00:00 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/andrewvu.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Testing Computer Using Agents: My Weekend Deep Dive into Microsoft UFO2 (and Why I’m Excited About This Tech)</title>
+      <title>Trying Tauric Research TradingAgents</title>
+      <link>http://localhost:1313/andrewvu.io/posts/tauric-tradingagents-experience/</link>
+      <pubDate>Fri, 04 Jul 2025 23:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/andrewvu.io/posts/tauric-tradingagents-experience/</guid>
+      <description>My experience setting up and running Tauric Research TradingAgents</description>
+    </item>
+    <item>
+      <title>My thoughts on AI CUAs (computer using agent)</title>
       <link>http://localhost:1313/andrewvu.io/posts/my-first-post/</link>
       <pubDate>Sun, 29 Jun 2025 22:57:14 -0400</pubDate>
       <guid>http://localhost:1313/andrewvu.io/posts/my-first-post/</guid>
-      <description>Exploring the cutting-edge world of Computer Using Agents (CUA) - from testing Microsoft UFO2 to envisioning the future of OS-level AI automation. A technical analysis of current limitations and potential breakthroughs.</description>
+      <description>My experience setting up and running Opus and Microsoft&amp;#39;s UFO2</description>
     </item>
   </channel>
 </rss>

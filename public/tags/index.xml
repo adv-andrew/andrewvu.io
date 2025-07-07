@@ -76,5 +76,61 @@
       <guid>http://localhost:1313/andrewvu.io/tags/technical-innovation/</guid>
       <description></description>
     </item>
+    <item>
+      <title>College-Tech</title>
+      <link>http://localhost:1313/andrewvu.io/tags/college-tech/</link>
+      <pubDate>Fri, 24 Jan 2025 23:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/andrewvu.io/tags/college-tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Finance</title>
+      <link>http://localhost:1313/andrewvu.io/tags/finance/</link>
+      <pubDate>Fri, 24 Jan 2025 23:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/andrewvu.io/tags/finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Llm</title>
+      <link>http://localhost:1313/andrewvu.io/tags/llm/</link>
+      <pubDate>Fri, 24 Jan 2025 23:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/andrewvu.io/tags/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multi-Agent</title>
+      <link>http://localhost:1313/andrewvu.io/tags/multi-agent/</link>
+      <pubDate>Fri, 24 Jan 2025 23:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/andrewvu.io/tags/multi-agent/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/andrewvu.io/tags/python/</link>
+      <pubDate>Fri, 24 Jan 2025 23:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/andrewvu.io/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TauricResearch</title>
+      <link>http://localhost:1313/andrewvu.io/tags/tauricresearch/</link>
+      <pubDate>Fri, 24 Jan 2025 23:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/andrewvu.io/tags/tauricresearch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trading</title>
+      <link>http://localhost:1313/andrewvu.io/tags/trading/</link>
+      <pubDate>Fri, 24 Jan 2025 23:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/andrewvu.io/tags/trading/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TradingAgents</title>
+      <link>http://localhost:1313/andrewvu.io/tags/tradingagents/</link>
+      <pubDate>Fri, 24 Jan 2025 23:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/andrewvu.io/tags/tradingagents/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

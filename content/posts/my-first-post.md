@@ -1,8 +1,8 @@
 ---
 date: '2025-06-29T22:57:14-04:00'
 draft: false
-title: 'Testing Computer Using Agents: My Weekend Deep Dive into Microsoft UFO2 (and Why I’m Excited About This Tech)'
-description: 'Exploring the cutting-edge world of Computer Using Agents (CUA) - from testing Microsoft UFO2 to envisioning the future of OS-level AI automation. A technical analysis of current limitations and potential breakthroughs.'
+title: 'My thoughts on AI CUAs (computer using agent)'
+description: "My experience setting up and running Opus and Microsoft's UFO2"
 tags: ["AI", "automation", "computer-using-agents", "microsoft-ufo", "machine-learning", "software-development", "AI-research", "OpenAI", "technical-innovation"]
 categories: ["AI & Machine Learning", "Software Development", "Technology Research"]
 keywords: ["Computer Using Agents", "CUA", "Microsoft UFO2", "AI automation", "machine learning engineer", "software developer", "AI research", "automation engineering", "OpenAI operator"]

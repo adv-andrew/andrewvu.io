@@ -53,6 +53,39 @@
     <loc>http://localhost:1313/andrewvu.io/posts/my-first-post/</loc>
     <lastmod>2025-06-29T22:57:14-04:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/andrewvu.io/tags/college-tech/</loc>
+    <lastmod>2025-01-24T23:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/andrewvu.io/categories/finance/</loc>
+    <lastmod>2025-01-24T23:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/andrewvu.io/tags/finance/</loc>
+    <lastmod>2025-01-24T23:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/andrewvu.io/tags/llm/</loc>
+    <lastmod>2025-01-24T23:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/andrewvu.io/tags/multi-agent/</loc>
+    <lastmod>2025-01-24T23:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/andrewvu.io/tags/python/</loc>
+    <lastmod>2025-01-24T23:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/andrewvu.io/categories/student-projects/</loc>
+    <lastmod>2025-01-24T23:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/andrewvu.io/tags/tauricresearch/</loc>
+    <lastmod>2025-01-24T23:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/andrewvu.io/tags/trading/</loc>
+    <lastmod>2025-01-24T23:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/andrewvu.io/tags/tradingagents/</loc>
+    <lastmod>2025-01-24T23:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/andrewvu.io/posts/tauric-tradingagents-experience/</loc>
+    <lastmod>2025-01-24T23:00:00-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/andrewvu.io/search/</loc>
   </url>
 </urlset>

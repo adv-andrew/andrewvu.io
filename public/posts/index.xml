@@ -20,5 +20,12 @@
       <guid>http://localhost:1313/andrewvu.io/posts/my-first-post/</guid>
       <description>Exploring the cutting-edge world of Computer Using Agents (CUA) - from testing Microsoft UFO2 to envisioning the future of OS-level AI automation. A technical analysis of current limitations and potential breakthroughs.</description>
     </item>
+    <item>
+      <title>Trying Out Tauric Research TradingAgents: My First LLM Multi-Agent Trading Test</title>
+      <link>http://localhost:1313/andrewvu.io/posts/tauric-tradingagents-experience/</link>
+      <pubDate>Fri, 24 Jan 2025 23:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/andrewvu.io/posts/tauric-tradingagents-experience/</guid>
+      <description>A college student shares their experience setting up and running Tauric Research TradingAgents, testing SPY with GPT-4o and o1, and ideas for integrating it with their own trading models.</description>
+    </item>
   </channel>
 </rss>

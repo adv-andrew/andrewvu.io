@@ -34,5 +34,19 @@
       <guid>http://localhost:1313/andrewvu.io/categories/technology-research/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Finance</title>
+      <link>http://localhost:1313/andrewvu.io/categories/finance/</link>
+      <pubDate>Fri, 24 Jan 2025 23:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/andrewvu.io/categories/finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Student Projects</title>
+      <link>http://localhost:1313/andrewvu.io/categories/student-projects/</link>
+      <pubDate>Fri, 24 Jan 2025 23:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/andrewvu.io/categories/student-projects/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
